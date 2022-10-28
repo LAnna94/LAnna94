@@ -14,7 +14,7 @@
 
 ## Моя статистика
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAnna94&layout=compact)](https://github.com/LAnna94/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAnna94&hide=contribs)](https://github.com/LAnna94/github-readme-stats)
+
 
 
 ## Как со мной связаться
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAnna94&hide=contribs)](https://github.com/LAnna94/github-readme-stats)
 -->
